@@ -13,6 +13,7 @@ public class secondLargestbetterapproach {
       for(int i=0 ; i<n ;i++){
            a[i]=sc.nextInt();
       }
+      sc.close();
       int b=secondLargest(a);
       System.out.println("The second laregst element in the array is "+ b);
   }  
