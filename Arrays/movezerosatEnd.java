@@ -15,7 +15,7 @@ public class movezerosatEnd {
 
         }
         sc.close();
-         removeZero(a);
+        move(a);
     }
     //o(n2) and o(n) approach
     public static void removeZero(int a[]){
@@ -52,5 +52,23 @@ public class movezerosatEnd {
             System.out.print(a[i]+" ");
         }
     }
+    // o(n) time complexity and o(n) space complexity
+    public static void move(int a[]){
+        int j=0;
+  int temp[]=new int[a.length];
+   for(int i=0 ; i<a.length ; i++){
+       if(a[i]==0){
+           continue;
+       }
+       else
+       {
+           temp[j]=a[i];
+           j++;
+       }
+   }
+   for(int i=0 ; i<temp.length ; i++){
+       System.out.print(temp[i]+" ");
+    }
 
+}
 }
