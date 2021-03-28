@@ -43,6 +43,9 @@ public class duplicateElements {
                 res++;   
             }
         }
+        for(int i=0 ; i<res ; i++){
+            System.out.print(a[i]+" ");
+        }
         return res;
     }
 }
