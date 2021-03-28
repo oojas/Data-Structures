@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch duplicateElements",
+            "request": "launch",
+            "mainClass": "Arrays.duplicateElements",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch duplicateElementscount",
+            "request": "launch",
+            "mainClass": "Arrays.duplicateElementscount",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch largestElement",
+            "request": "launch",
+            "mainClass": "Arrays.largestElement",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch leadersinArray",
+            "request": "launch",
+            "mainClass": "Arrays.leadersinArray",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch leftRotatae",
+            "request": "launch",
+            "mainClass": "Arrays.leftRotatae",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch maximumDifference",
+            "request": "launch",
+            "mainClass": "Arrays.maximumDifference",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch movezerosatEnd",
+            "request": "launch",
+            "mainClass": "Arrays.movezerosatEnd",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseArray",
+            "request": "launch",
+            "mainClass": "Arrays.reverseArray",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch secondLargest",
+            "request": "launch",
+            "mainClass": "Arrays.secondLargest",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch secondLargestbetterapproach",
+            "request": "launch",
+            "mainClass": "Arrays.secondLargestbetterapproach",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch secondSmallest",
+            "request": "launch",
+            "mainClass": "Arrays.secondSmallest",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortedArray",
+            "request": "launch",
+            "mainClass": "Arrays.sortedArray",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch deleteAtFirst",
+            "request": "launch",
+            "mainClass": "LinkedList.deleteAtFirst",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch deleteFromLast",
+            "request": "launch",
+            "mainClass": "LinkedList.deleteFromLast",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch implementationofLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.implementationofLinkedList",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertAtEnd",
+            "request": "launch",
+            "mainClass": "LinkedList.insertAtEnd",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertAtanyPoint",
+            "request": "launch",
+            "mainClass": "LinkedList.insertAtanyPoint",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertBegin",
+            "request": "launch",
+            "mainClass": "LinkedList.insertBegin",
+            "projectName": "PlacementQuestions_564e3fce"
+        }
+    ]
+}

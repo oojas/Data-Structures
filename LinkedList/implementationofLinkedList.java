@@ -1,6 +1,5 @@
 package LinkedList;
 
-import java.util.Scanner;
 
 public class implementationofLinkedList {
   class node{
@@ -28,25 +27,29 @@ public class implementationofLinkedList {
   }
   void print(){
       node temp=head;
-      while(temp.next!=null){
+      while(temp!=null){
           System.out.print(temp.data+" ");
           temp=temp.next;
       }
+     // System.out.print(temp.data);
   }
   Boolean isEmpty(){
       return head==null;
   }
   public static void main(String s[]){
-      int n;
+    //   int n;
       implementationofLinkedList obj=new implementationofLinkedList();
-      Scanner sc=new Scanner(System.in);
-      n=sc.nextInt();
-   System.out.println("Enter the data to add"); 
-     for(int i=0 ; i<n ; i++){
-          obj.add(sc.nextInt());
-     }
-     obj.print();     
-     sc.close();
+      obj.add(12);
+      obj.add(13);
+      obj.print();
+//       Scanner sc=new Scanner(System.in);
+//       n=sc.nextInt();
+//    System.out.println("Enter the data to add"); 
+//      for(int i=0 ; i<n ; i++){
+//           obj.add(sc.nextInt());
+//      }
+//      obj.print();     
+//      sc.close();
   }
 
 }
