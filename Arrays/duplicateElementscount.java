@@ -40,7 +40,7 @@ public class duplicateElementscount {
     // better approach because the time complexity here is o(nlogn) and space complexity is o(n)
     public static int countDuplicate(int a[]){
         Arrays.sort(a);
-        boolean visited[]=new boolean[a.length];
+        boolean visited[]=new boolean[a.length];            
         
         int count=0;
         for(int i=0 ; i<a.length-1 ; i++){

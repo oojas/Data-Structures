@@ -23,8 +23,8 @@ public class duplicateElements {
         b[0]=a[0];
         int res=1;// because we have added one element into the array so we are taking the resultant legnth of the array as one
      for(int i=1 ; i<a.length ; i++){
-         if(a[res-1]!=a[i]){
-             a[res]=a[i];
+         if(b[res-1]!=a[i]){
+             b[res]=a[i];
              res++;
          }
          
