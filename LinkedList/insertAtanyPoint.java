@@ -111,6 +111,7 @@ void insertAtAnyPoint(int data,int pos){
 }
 public static void main(String sp[]){
     insertAtanyPoint obj=new insertAtanyPoint();
+    
     obj.add(12);
     obj.add(13);
     obj.add(14);

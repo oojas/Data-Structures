@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch insertAtbginDoublylinkedlist",
+            "request": "launch",
+            "mainClass": "LinkedList.insertAtbginDoublylinkedlist",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.SearchLinkedList",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoublyLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.DoublyLinkedList",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
