@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch reverseNodesinDoublyLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.reverseNodesinDoublyLinkedList",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseDoublyLinkedlist",
+            "request": "launch",
+            "mainClass": "LinkedList.reverseDoublyLinkedlist",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
             "name": "Launch insertAtbginDoublylinkedlist",
             "request": "launch",
             "mainClass": "LinkedList.insertAtbginDoublylinkedlist",
