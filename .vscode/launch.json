@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch deletenodesofDoublyLL",
+            "request": "launch",
+            "mainClass": "LinkedList.deletenodesofDoublyLL",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
             "name": "Launch reverseNodesinDoublyLinkedList",
             "request": "launch",
             "mainClass": "LinkedList.reverseNodesinDoublyLinkedList",

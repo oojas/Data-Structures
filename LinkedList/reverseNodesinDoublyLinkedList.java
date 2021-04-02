@@ -47,12 +47,9 @@ public class reverseNodesinDoublyLinkedList {
                     val=temp.prev;
                     temp.prev=temp.next;
                     temp.next=val;
-                    temp=temp.prev;
+                    temp=temp.next;
                 }
-                while(val!=null){
-                    System.out.print(val.data+" ");
-                    val=val.prev;
-                }
+               
             }
         }
         void print(){
@@ -62,10 +59,10 @@ public class reverseNodesinDoublyLinkedList {
            else
            {
                node temp=head;
-               while(temp!=null)
+               while(temp.prev!=null)
                {
                  System.out.print(temp.data+" ");
-                 temp=temp.next;
+                 temp=temp.prev;
                }
            }
         }
@@ -79,6 +76,7 @@ public class reverseNodesinDoublyLinkedList {
        obj.print();
        System.out.println();
        obj.reverseNodes();
+       obj.print();
 
     }
 }
