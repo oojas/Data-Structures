@@ -37,6 +37,25 @@ public class CircularLinkedList {
            
         }
     }
+    void addAtBegin(int data) // Better approach as Time Complexity is O(1)
+    {
+        node toAdd=new node(data);
+        if(isEmpty())
+        {
+            head=toAdd;
+            head=head.next;
+        }
+        else
+        {
+            toAdd.next=head.next;
+            head.next=toAdd;
+            int t=head.data;
+            head.data=toAdd.data;
+            toAdd.data=t;
+            
+        }
+    }
+    
     void print()
     {
         if(isEmpty())
@@ -61,6 +80,8 @@ public class CircularLinkedList {
         obj.add(11);
         obj.add(12);
         obj.add(13);
+        obj.addAtBegin(9);
+        
         obj.print();
     }
 }
