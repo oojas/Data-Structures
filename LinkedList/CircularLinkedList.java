@@ -70,7 +70,7 @@ public class CircularLinkedList {
                 System.out.print(temp.data+" ");
                 temp=temp.next;
             }
-           // System.out.print(temp.data+" ");
+           
         }
     }
     public static void main(String s[])

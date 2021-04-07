@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch deleteHeadofCircularLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.deleteHeadofCircularLinkedList",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
             "name": "Launch CircularLinkedList",
             "request": "launch",
             "mainClass": "LinkedList.CircularLinkedList",
