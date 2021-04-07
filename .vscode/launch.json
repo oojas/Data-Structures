@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CircularLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.CircularLinkedList",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
             "name": "Launch deletenodesofDoublyLL",
             "request": "launch",
             "mainClass": "LinkedList.deletenodesofDoublyLL",
