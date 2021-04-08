@@ -107,6 +107,7 @@ public class deleteHeadofCircularLinkedList {
         }
         return count;
     }
+    // better approach
     void deletehead()
     {
         if(isEmpty())

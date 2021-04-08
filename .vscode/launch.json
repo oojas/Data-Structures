@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch insertElemtnetinasortedLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.insertElemtnetinasortedLinkedList",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch CircularDoublyLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.CircularDoublyLinkedList",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
             "name": "Launch deleteHeadofCircularLinkedList",
             "request": "launch",
             "mainClass": "LinkedList.deleteHeadofCircularLinkedList",
