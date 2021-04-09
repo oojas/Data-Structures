@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch linkedlistStack",
+            "request": "launch",
+            "mainClass": "Stack.linkedlistStack",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch stackFromArrayList",
+            "request": "launch",
+            "mainClass": "Stack.stackFromArrayList",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch stackFromArray",
+            "request": "launch",
+            "mainClass": "Stack.stackFromArray",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
             "name": "Launch insertElemtnetinasortedLinkedList",
             "request": "launch",
             "mainClass": "LinkedList.insertElemtnetinasortedLinkedList",

@@ -14,4 +14,4 @@
  - Searching and Sorting Algorithms
  - General Algorithms
 
-[Setup about installing java in Vs Code](https://www.youtube.com/watch?v=ClU9N4ub_Ko)
+[Setup of installing java in VS Code](https://www.youtube.com/watch?v=ClU9N4ub_Ko)

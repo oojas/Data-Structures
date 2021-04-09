@@ -1,5 +1,7 @@
 package LinkedList;
 
+// import java.util.LinkedList;
+
 public class insertElemtnetinasortedLinkedList {
     class node{
         int data;
@@ -116,7 +118,8 @@ public class insertElemtnetinasortedLinkedList {
     }
     public static void main(String s[])
     {
-           insertElemtnetinasortedLinkedList obj=new insertElemtnetinasortedLinkedList();
+
+         insertElemtnetinasortedLinkedList obj=new insertElemtnetinasortedLinkedList();
         obj.add(12);
         obj.add(13);
         obj.add(15);
