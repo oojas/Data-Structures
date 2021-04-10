@@ -1,0 +1,42 @@
+In Floyyd Algorithm one pointer runs faster than the other.
+In the question we have used Floyyd algorithm to find the loop in a linked 
+list.
+Here the fast node moves two times faster than the slow. If they meet at a common point then the linked list contains 
+a loop.
+If not then the linked list is linear.
+
+Detecting the loop has been done in the example. In this pseudo code it is explained on how to find the starting 
+point of the loop.
+findLoop(Node head)
+{
+    Node fast=head.next;
+    Node slow =head;
+    while(fast!=null && slow!=null && fast.next!=null)
+    {
+        if(fast==slow)
+        {
+            val=true;
+            Node temp=findStart(fast,head);
+            break;
+        }
+        fast=fast.next.next;
+        slow=slow.next;
+    }
+    return temp;
+
+}
+Node findStart(Node fast, Node head)
+{
+    Node temp=head;
+    while(1)
+    {
+        if(temp=fast)
+        {
+            Node found=temp;
+            break;
+        }
+        temp=temp.next;
+        fast=fast.next;
+    }
+    return found;
+}

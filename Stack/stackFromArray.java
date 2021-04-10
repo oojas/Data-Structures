@@ -17,10 +17,18 @@ public class stackFromArray {
       top++;
       a[top]=element;
     }
-    int pop()
-    {    int res=a[top];
+    int pop(){
+    if(top==-1)
+    {
+        return -1;
+    }
+    else
+    {
+        int res=a[top];
         top--;
         return res;
+    }
+      
     }
     int length()
     { 
