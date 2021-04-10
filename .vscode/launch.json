@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BalancedParanthesis",
+            "request": "launch",
+            "mainClass": "Stack.BalancedParanthesis",
+            "projectName": "PlacementQuestions_564e3fce"
+        },
+        {
+            "type": "java",
             "name": "Launch linkedlistStack",
             "request": "launch",
             "mainClass": "Stack.linkedlistStack",
