@@ -1,0 +1,17 @@
+In Java there are two ways of implementation of stack
+1. Using Stack class which inherits vector which inturn inherits list.
+2. Using ArrayDeque class which inherits deque which again inherits queue.
+
+Using stack as a class can give us overhead functioinality because the vector class uses additional features of multithreading.
+So using ArrayDeque is a great option.
+ArrayDeque has same functioinality as stack so we should use ArrayDeque.
+
+example :
+ArrayDeque<Integer> s=new ArrayDeque<Integer>();
+s.push(12);
+s.push(23);
+s.pop(20);
+s.peek(122);
+
+
+It has same functions as stack .
