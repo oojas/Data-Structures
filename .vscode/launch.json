@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch infixToPostfix",
+            "request": "launch",
+            "mainClass": "Stack.infixToPostfix",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
             "name": "Launch nextGreater",
             "request": "launch",
             "mainClass": "Stack.nextGreater",
