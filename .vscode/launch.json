@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch nextGreater",
+            "request": "launch",
+            "mainClass": "Stack.nextGreater",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch previousGreater",
+            "request": "launch",
+            "mainClass": "Stack.previousGreater",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch stackPlan",
+            "request": "launch",
+            "mainClass": "Stack.stackPlan",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
             "name": "Launch GFG",
             "request": "launch",
             "mainClass": "Algorithms.GFloyydAlgo.GFG",
