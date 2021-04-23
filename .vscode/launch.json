@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Anagram",
+            "request": "launch",
+            "mainClass": "Strings.Anagram",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch subsequence",
+            "request": "launch",
+            "mainClass": "Strings.subsequence",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome",
+            "request": "launch",
+            "mainClass": "Strings.palindrome",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
             "name": "Launch infixToPostfix",
             "request": "launch",
             "mainClass": "Stack.infixToPostfix",
