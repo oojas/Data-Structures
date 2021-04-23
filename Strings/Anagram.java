@@ -42,6 +42,7 @@ public class Anagram {
          }
          return true;
      } 
+      // Not so good approach because the time complexity is O(n2)
      public static boolean check(String a, String b)
      {
          if(a.length()!=b.length())

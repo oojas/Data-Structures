@@ -1,0 +1,20 @@
+Whenever there is a question and you want to find the frequency of the characters in a string
+or the logic revolves around finding the frequency of characters
+then Use :
+int char=256;
+int n[]=new int[char];
+for(int i=0 ; i<a.length() ; i++)
+{
+    n[a.charAt(i)]++;
+}
+-----OR----------
+int char =256;
+boolean visited[]=new boolean[char];
+for(int i=0 ; i<a.length() ; i++)
+{
+    if(visited[a.charAt(i)])
+    {
+        visited[a.charAt(i)]=true;
+    }
+}
+METHODS
