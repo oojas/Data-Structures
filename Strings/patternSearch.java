@@ -11,7 +11,7 @@ public class patternSearch {
         System.out.println("Enter the substring to be checked");
         String b=sc.next();
         sc.close();
-        patternsearch(a,b);
+        naiveSimple(a,b);
     }
     // Naive method for pattern searching as it gives you the time complexity of o(m*n).
     public static void patternsearch(String a, String b )
@@ -56,6 +56,30 @@ public class patternSearch {
          }
          if(val==0)
          System.out.println("The entered pattern is not present in the string");
+    }
+    public static void naiveSimple(String a,String b)
+    {
+     int n=a.length();
+     int m=b.length();
+     int val=0;
+     for(int i=0 ; i<=(n-m) ; i++)
+     {
+         int j;
+         for(j=0 ; j<b.length() ; j++)
+         {
+             if(b.charAt(j)!=a.charAt(i+j))
+             break;
+             
+         }
+         if(j==m){
+            System.out.print(i+" ");
+            val++;
+        }
+     }
+     if(val==0)
+     {
+         System.out.println("No String found");
+     }
     }
 
 }

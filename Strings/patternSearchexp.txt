@@ -1,0 +1,20 @@
+Whenever we want to compare the character of one string with 
+every character of other string always use the n-m idea.
+
+Suppose for the pattern search problem.
+int n=a.lenght() // Bigger string length
+int m=b.length() //Smaller string length
+
+for(int i=0 ; i<=(n-m); i++)
+{
+     int j;
+     for(j=0 ; j<m ; j++)
+     {
+         if(b.charAt(j)!=a.charAt(i+j))break;
+     }
+     if(j==m)
+     {
+         System.out.print(i);
+     }
+}
+Running the outer loop for n-m removes the possibility of going out of bound for the bigger string.
