@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch numbertoBinary",
+            "request": "launch",
+            "mainClass": "Recursion.numbertoBinary",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch ntoOneonetoN",
+            "request": "launch",
+            "mainClass": "Recursion.ntoOneonetoN",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch ntoOne",
+            "request": "launch",
+            "mainClass": "Recursion.ntoOne",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
             "name": "Launch longestSubstring",
             "request": "launch",
             "mainClass": "Strings.longestSubstring",
