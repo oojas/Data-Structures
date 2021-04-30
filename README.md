@@ -8,7 +8,7 @@
  - Stack
  - Queue
  - Matrix
- - Tress
+ - Trees
  - Graphs
  - Genral Mathematics
  - Searching and Sorting Algorithms
