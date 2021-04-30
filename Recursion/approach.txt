@@ -1,0 +1,16 @@
+Recursion is one of the trickiest topics in DSA.
+
+We can imagine solving the problems in two ways.
+1. Find a solution for a shorter problem and then call the func and the rest will be done.
+Example : Sum of digits of a number.
+ return n%10+sum(n/10);
+ Here we are assuming that if we have the value of n-1 digits sum. So we compute the sum of nth number.
+ This is the first approach . Divide the problem into smaller problems.
+
+ 2. Start building a recrusion tree and then solve the question.
+ Example : Finding subsets.
+
+ We draw theb recrusion tree with an empty string and use include/Not include method.
+ We draw the recrusion tree and then find the solution.
+ subsets(a,index+1,curr); // curr is an empty string
+ subsets(a,index+1,curr+a.charAt(i));

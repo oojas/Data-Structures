@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch duplicateElementscount",
+            "request": "launch",
+            "mainClass": "duplicateElementscount",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch kSmall",
+            "request": "launch",
+            "mainClass": "Arrays.kSmall",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch kthSmallestElement",
+            "request": "launch",
+            "mainClass": "Arrays.kthSmallestElement",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch andorxor",
+            "request": "launch",
+            "mainClass": "Bit.andorxor",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch generateSubsets",
+            "request": "launch",
+            "mainClass": "Recursion.generateSubsets",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
             "name": "Launch sumOfdigits",
             "request": "launch",
             "mainClass": "Recursion.sumOfdigits",

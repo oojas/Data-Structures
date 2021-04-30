@@ -1,4 +1,3 @@
-package Arrays;
 
 import java.util.Scanner;
 
@@ -20,7 +19,6 @@ public class maximumDifference{
     //naive approach because the time complexity is o(n2)
     public static int maxdiff(int a[]){
         int temp=-1;
-    ;
 for(int i=0 ; i<a.length ; i++){
     for(int j=i+1 ; j<a.length ; j++){
         if(temp==-1){
