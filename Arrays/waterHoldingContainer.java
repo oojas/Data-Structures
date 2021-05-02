@@ -1,9 +1,12 @@
+
 import java.util.Scanner;
 
 public class waterHoldingContainer {
     public static void main(String s[])
     {
+
         Scanner sc=new Scanner(System.in);
+    
         System.out.println("Enter the size of the array");
         int n=sc.nextInt();
         System.out.println("Enter the elements of the array");
@@ -13,6 +16,7 @@ public class waterHoldingContainer {
             a[i]=sc.nextInt();
 
         }
+      
         int val=max(a,n);
         sc.close();
         System.out.println(val);

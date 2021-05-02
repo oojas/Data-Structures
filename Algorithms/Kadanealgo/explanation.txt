@@ -1,0 +1,4 @@
+In Kadane algorithm we basically check whether to include the upcoming element in the sum 
+or to include the sum of the upcoming element with the maxEnding element.
+After doing this we compare the results . If the previous result is high, we keep it
+If not, we update the result.

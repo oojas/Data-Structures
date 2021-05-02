@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
         "Recursion",
+        "Queue",
         "Arrays",
-        "Algorithms/GFloyydAlgo"
+        "Algorithms/GFloyydAlgo",
+        "Algorithms/Kadanealgo"
     ]
 }
