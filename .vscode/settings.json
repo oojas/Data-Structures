@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "Recursion",
         "Arrays",
-        "Recursion"
+        "Algorithms/GFloyydAlgo"
     ]
 }

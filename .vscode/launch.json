@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch waterHoldingContainer",
+            "request": "launch",
+            "mainClass": "waterHoldingContainer",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortedSum",
+            "request": "launch",
+            "mainClass": "sortedSum",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch takenegativefirst",
+            "request": "launch",
+            "mainClass": "takenegativefirst",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch kSmall",
+            "request": "launch",
+            "mainClass": "kSmall",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
             "name": "Launch duplicateElementscount",
             "request": "launch",
             "mainClass": "duplicateElementscount",
