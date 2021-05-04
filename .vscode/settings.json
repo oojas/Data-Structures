@@ -2,9 +2,10 @@
     "java.project.sourcePaths": [
         "Recursion",
         "Queue",
+        "Matrix",
         "Arrays",
         "Algorithms/Kadanealgo",
         "Algorithms/GFloyydAlgo",
-        "Matrix"
+        "Strings"
     ]
 }
