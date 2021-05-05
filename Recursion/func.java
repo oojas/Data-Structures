@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class palindrome {
+public class func {
     public static void main(String s[])
     {
         Scanner sc=new Scanner(System.in);
