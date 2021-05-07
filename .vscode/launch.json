@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BalancedParanthesis",
+            "request": "launch",
+            "mainClass": "BalancedParanthesis",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch larrayArray",
+            "request": "launch",
+            "mainClass": "larrayArray",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
             "name": "Launch maximumEvenOdd",
             "request": "launch",
             "mainClass": "maximumEvenOdd",

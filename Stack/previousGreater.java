@@ -1,4 +1,3 @@
-package Stack;
 
 import java.util.ArrayDeque;
 import java.util.Scanner;
