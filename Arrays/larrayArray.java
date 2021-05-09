@@ -1,3 +1,4 @@
+// import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -7,6 +8,9 @@ public class larrayArray {
     {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the size");
+        Integer.toString(23);
+        // ArrayDeque<Integer> l=new ArrayDeque<>();
+        // l.element(2);
         int n=sc.nextInt();
         System.out.println("Enter the elements ");
         List<Integer> l=new ArrayList<>();

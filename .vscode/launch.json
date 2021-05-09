@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch maximumDiff",
+            "request": "launch",
+            "mainClass": "maximumDiff",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch removeKdigits",
+            "request": "launch",
+            "mainClass": "removeKdigits",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
             "name": "Launch BalancedParanthesis",
             "request": "launch",
             "mainClass": "BalancedParanthesis",
