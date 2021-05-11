@@ -1,5 +1,3 @@
-
-
 import java.util.Scanner;
 
 public class leftmostNonRepeating {
@@ -10,6 +8,7 @@ public class leftmostNonRepeating {
         String a=sc.next();
         check(a);
         sc.close();
+
     }
     public static void check(String a)
     {
