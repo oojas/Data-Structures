@@ -1,13 +1,9 @@
-
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
 public class duplicateElementscount {
     public static void main(String sp[]){
         int n;
-        ArrayList<Integer> l=new ArrayList<>();
-        l.clear();
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the size of the array");
         n=sc.nextInt();

@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TappingWater",
+            "request": "launch",
+            "mainClass": "TappingWater",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch consecutive1inBinaryArray",
+            "request": "launch",
+            "mainClass": "consecutive1inBinaryArray",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequencyofElements",
+            "request": "launch",
+            "mainClass": "frequencyofElements",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch suminSuBArray",
+            "request": "launch",
+            "mainClass": "suminSuBArray",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumWithKlimit",
+            "request": "launch",
+            "mainClass": "sumWithKlimit",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
             "name": "Launch SlidingWindow",
             "request": "launch",
             "mainClass": "SlidingWindow",
