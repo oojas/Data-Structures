@@ -1,0 +1,6 @@
+size()
+isEmpty()
+add()
+clear()
+remove()
+contains()

@@ -1,0 +1,16 @@
+getKey()
+getValue()
+entrySet()
+put()
+containsKey()
+remove()
+size()
+containsValue() // boolean func which tells whether the value is present in the HashMap or not.
+get() // gets the value of the corresponding Key.
+for entrying into HashMap
+{
+     for(Map.Entry<String,Integer> m:hm.entrySet())
+        {
+            System.out.print(m.getKey()+" "+m.getValue()+" ");
+        }
+}

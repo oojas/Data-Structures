@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "Strings",
+        "Stack",
         "Sorting",
         "Recursion",
         "Queue",
@@ -8,6 +9,6 @@
         "Arrays",
         "Algorithms/Kadanealgo",
         "Algorithms/GFloyydAlgo",
-        "Stack"
+        "Hashing"
     ]
 }
