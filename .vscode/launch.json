@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch zeroSum",
+            "request": "launch",
+            "mainClass": "zeroSum",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch findSum",
+            "request": "launch",
+            "mainClass": "findSum",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch countDistinctinUnsortedArray",
+            "request": "launch",
+            "mainClass": "countDistinctinUnsortedArray",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch DistinctCommonElements",
+            "request": "launch",
+            "mainClass": "DistinctCommonElements",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequencyoftheElements",
+            "request": "launch",
+            "mainClass": "frequencyoftheElements",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
             "name": "Launch countDistinct",
             "request": "launch",
             "mainClass": "countDistinct",

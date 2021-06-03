@@ -14,3 +14,15 @@ for entrying into HashMap
             System.out.print(m.getKey()+" "+m.getValue()+" ");
         }
 }
+getOrDefault() 
+Returns the value to which the specified key is mapped, or defaultValue if this map contains no mapping for the key.
+
+Parameters:
+key the key whose associated value is to be returned
+
+defaultValue the default mapping of the key
+
+Returns:
+the value to which the specified key is mapped, or defaultValue if this map contains no mapping for the key.
+
+If we want the answer in a serial order of their precedence then we should take linkedHshMap.

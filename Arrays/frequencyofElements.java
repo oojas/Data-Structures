@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class frequencyofElements {
@@ -17,6 +18,7 @@ public class frequencyofElements {
    } 
    public static void bruteForce(int a[],int n)
    {
+       Arrays.sort(a);
        for(int i=0 ; i<n ; i++)
        {
            int count=0;
