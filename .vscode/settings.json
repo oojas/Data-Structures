@@ -6,9 +6,10 @@
         "Recursion",
         "Queue",
         "Matrix",
+        "Hashing",
         "Arrays",
         "Algorithms/Kadanealgo",
         "Algorithms/GFloyydAlgo",
-        "Hashing"
+        "Trees"
     ]
 }

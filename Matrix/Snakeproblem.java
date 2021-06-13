@@ -39,6 +39,8 @@ public class Snakeproblem {
              }
          }
          System.out.println();
+         String s="";
+         s.contains(s);
      }
   }
 }
