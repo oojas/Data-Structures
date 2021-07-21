@@ -1,0 +1,9 @@
+void inorder(node root)
+{
+    if(root!=null)
+    {
+        inorder(node.left);
+        System.out.println(node.key);
+        inorder(root.right);
+    }
+}
