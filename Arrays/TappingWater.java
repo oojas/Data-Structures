@@ -28,7 +28,7 @@ public class TappingWater {
          }
          for(int i=n-2; i>=0 ; i--)
          {
-            right_max[i]=Integer.max(left_max[i+1], a[i]);
+            right_max[i]=Integer.max(right_max[i+1], a[i]);
          }
          int res=0;
          for(int i=0 ; i<n ; i++)

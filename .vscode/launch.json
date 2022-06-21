@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch consectiveOne",
+            "request": "launch",
+            "mainClass": "consectiveOne",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch waterstorage",
+            "request": "launch",
+            "mainClass": "waterstorage",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch freq",
+            "request": "launch",
+            "mainClass": "freq",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
             "name": "Launch maxz",
             "request": "launch",
             "mainClass": "maxz",
