@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch longestSubarraySum",
+            "request": "launch",
+            "mainClass": "longestSubarraySum",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch osum",
+            "request": "launch",
+            "mainClass": "osum",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch findPair",
+            "request": "launch",
+            "mainClass": "findPair",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch Intersection",
+            "request": "launch",
+            "mainClass": "Intersection",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch maps",
+            "request": "launch",
+            "mainClass": "maps",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch basics",
+            "request": "launch",
+            "mainClass": "basics",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch eq",
+            "request": "launch",
+            "mainClass": "eq",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch SUMFIND",
+            "request": "launch",
+            "mainClass": "SUMFIND",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
             "name": "Launch consectiveOne",
             "request": "launch",
             "mainClass": "consectiveOne",
