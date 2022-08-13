@@ -1,4 +1,4 @@
-package LinkedList;
+
 
 public class insertAtanyPoint {
     class node{

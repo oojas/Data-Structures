@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch reverseLinked",
+            "request": "launch",
+            "mainClass": "reverseLinked",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertsortlink",
+            "request": "launch",
+            "mainClass": "insertsortlink",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch CircularLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.CircularLinkedList",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch democircular",
+            "request": "launch",
+            "mainClass": "democircular",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch demodouble",
+            "request": "launch",
+            "mainClass": "demodouble",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertAtbginDoublylinkedlist",
+            "request": "launch",
+            "mainClass": "LinkedList.insertAtbginDoublylinkedlist",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
             "name": "Launch distinctWindow",
             "request": "launch",
             "mainClass": "distinctWindow",

@@ -1,5 +1,3 @@
-package LinkedList;
-
 
 public class SearchLinkedList {
     class node{

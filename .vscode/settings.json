@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "Trees",
         "Strings",
         "Stack",
         "Sorting",
@@ -10,6 +11,6 @@
         "Arrays",
         "Algorithms/Kadanealgo",
         "Algorithms/GFloyydAlgo",
-        "Trees"
+        "LinkedList"
     ]
 }

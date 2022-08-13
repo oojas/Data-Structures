@@ -1,4 +1,4 @@
-package LinkedList;
+
 
 public class reverseNodesinDoublyLinkedList {
     class node{
