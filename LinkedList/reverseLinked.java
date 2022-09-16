@@ -55,8 +55,6 @@ public class reverseLinked {
                    prev.next=curr.next;
                    curr=prev.next;                                                                                                                                                                                                                                                                                                                                            
                 }
-                
-       
                 curr=curr.next;
                 prev=prev.next;
             }

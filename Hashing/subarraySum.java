@@ -47,7 +47,7 @@ public class subarraySum{
     public static boolean checkSum(int a[],int sum)
     {
         ArrayList<Integer> l=new ArrayList<Integer>();
-        l.add
+        
         HashSet<Integer> h=new HashSet<Integer>();
         int val=0;
         int count=0;
