@@ -19,7 +19,7 @@ public class implementation {
       
         }
         sc.close();
-        System.out.println("Enter the elements are");
+        System.out.println("Entered elements are");
         for(int i=0 ; i<m ; i++)
         {
             for(int j=0 ; j<n ; j++)

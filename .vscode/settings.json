@@ -11,6 +11,7 @@
         "Arrays",
         "Algorithms/Kadanealgo",
         "Algorithms/GFloyydAlgo",
-        "LinkedList"
+        "LinkedList",
+        "Searching"
     ]
 }
