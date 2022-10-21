@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Scanner;
@@ -30,5 +31,7 @@ public class hashSet {
             System.out.print(str+" ");
         }
         sc.close();
+        ArrayList<Integer> l=new ArrayList<>();
+        l.get
     }
 }
