@@ -32,6 +32,6 @@ public class hashSet {
         }
         sc.close();
         ArrayList<Integer> l=new ArrayList<>();
-        l.get
+
     }
 }

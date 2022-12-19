@@ -4,14 +4,18 @@
         "Strings",
         "Stack",
         "Sorting",
+        "Searching",
         "Recursion",
         "Queue",
         "Matrix",
+        "LinkedList",
         "Hashing",
         "Arrays",
         "Algorithms/Kadanealgo",
         "Algorithms/GFloyydAlgo",
-        "LinkedList",
-        "Searching"
-    ]
+        "Dequeue"
+    ],
+    "files.watcherExclude": {
+        "**/target": true
+    }
 }

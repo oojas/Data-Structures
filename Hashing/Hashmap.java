@@ -1,5 +1,6 @@
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Scanner;
 public class Hashmap {
     public static void main(String s[])
     {
@@ -11,6 +12,7 @@ public class Hashmap {
         {
             System.out.print(m.getKey()+" "+m.getValue()+" ");
         }
-
+     Scanner sc=new Scanner(System.in);
+     sc.next().charAt(0)
     }
 }

@@ -1,0 +1,199 @@
+2022.12.15 12:32:41 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\.metals\lsp.trace.json or C:\Users\Ojas Gupta\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.15 12:32:43 INFO  logging to file C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\.metals\metals.log
+2022.12.15 12:32:43 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions' for client Visual Studio Code 1.74.1.
+2022.12.15 12:32:53 INFO  time: initialize in 9.76s
+2022.12.15 12:32:57 WARN  Build server is not auto-connectable.
+2022.12.15 12:32:57 WARN  no build tool detected in workspace 'C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.15 12:32:57 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Dequeue\maxsubsizek.java
+Dec 15, 2022 12:32:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Dec 15, 2022 12:32:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2022.12.15 12:32:59 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Dequeue/maxsubsizek.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Dequeue'
+
+2022.12.15 12:33:45 INFO  shutting down Metals
+2022.12.17 08:51:18 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\.metals\lsp.trace.json or C:\Users\Ojas Gupta\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.17 08:51:21 INFO  logging to file C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\.metals\metals.log
+2022.12.17 08:51:21 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions' for client Visual Studio Code 1.74.1.
+2022.12.17 08:51:27 INFO  time: initialize in 6.43s
+2022.12.17 08:51:33 WARN  Build server is not auto-connectable.
+2022.12.17 08:51:33 WARN  no build tool detected in workspace 'C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.17 08:51:33 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Dequeue\maxsubsizek.java
+2022.12.17 08:51:33 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 08:51:36 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+2022.12.17 08:51:36 INFO  time: code lens generation in 3.16s
+2022.12.17 08:51:38 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Dequeue/maxsubsizek.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Dequeue'
+
+2022.12.17 08:51:38 INFO  time: code lens generation in 1.81s
+2022.12.17 08:51:44 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 08:51:47 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 08:51:47 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:7: error: cannot find symbol
+        hm.remo
+          ^
+  symbol:   variable hm
+  location: variable hm of type HashMap<String,Integer>
+1 error
+2022.12.17 08:51:49 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:8: error: ';' expected
+        hm.put("Ojas",21);
+          ^
+1 error
+2022.12.17 08:51:50 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 08:51:51 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+2022.12.17 08:53:53 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 08:53:54 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:8: error: ';' expected
+        hm.put("Ojas",21);
+          ^
+1 error
+2022.12.17 08:53:58 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 08:53:59 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+2022.12.17 08:56:03 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 08:56:04 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:10: error: not a statement
+        remo
+        ^
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:10: error: ';' expected
+        remo
+            ^
+2 errors
+2022.12.17 08:56:07 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 08:56:08 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:10: error: not a statement
+        hm.re
+          ^
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:10: error: ';' expected
+        hm.re
+             ^
+2 errors
+2022.12.17 08:56:09 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 08:56:10 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:10: error: not a statement
+        hm.r
+          ^
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:10: error: ';' expected
+        hm.r
+            ^
+2 errors
+2022.12.17 08:56:15 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 08:56:16 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+2022.12.17 11:17:06 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 11:17:07 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+2022.12.17 11:17:07 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 11:17:09 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+2022.12.17 11:17:09 INFO  time: code lens generation in 1.23s
+2022.12.17 11:17:09 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 11:17:11 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:14: error: not a statement
+     Scanner
+     ^
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:14: error: ';' expected
+     Scanner
+            ^
+2 errors
+2022.12.17 11:17:15 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 11:17:17 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:16: error: '(' or '[' expected
+    }
+    ^
+1 error
+2022.12.17 11:17:17 INFO  time: code lens generation in 1.4s
+2022.12.17 11:17:20 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 11:17:21 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+2022.12.17 11:17:23 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 11:17:24 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:16: error: <identifier> expected
+     sc.next.
+             ^
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:16: error: not a statement
+     sc.next.
+            ^
+2 errors
+2022.12.17 11:17:25 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 11:17:26 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:16: error: <identifier> expected
+     sc.next.char
+             ^
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:16: error: not a statement
+     sc.next.char
+            ^
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:16: error: ';' expected
+     sc.next.char
+                 ^
+3 errors
+2022.12.17 11:17:38 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 11:17:39 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:16: error: <identifier> expected
+     sc.next().
+               ^
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:16: error: not a statement
+     sc.next().
+              ^
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:17: error: ';' expected
+    }
+     ^
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:18: error: reached end of file while parsing
+}
+ ^
+4 errors
+2022.12.17 11:17:40 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 11:17:41 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:16: error: not a statement
+     sc.next().cha
+              ^
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:16: error: ';' expected
+     sc.next().cha
+                  ^
+2 errors
+2022.12.17 11:17:41 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.17 11:17:42 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:16: error: ';' expected
+     sc.next().charAt(0)
+                        ^
+1 error
+2022.12.17 11:26:28 INFO  shutting down Metals
+2022.12.19 21:08:56 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\.metals\lsp.trace.json or C:\Users\Ojas Gupta\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.19 21:08:59 INFO  logging to file C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\.metals\metals.log

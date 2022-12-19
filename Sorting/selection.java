@@ -1,3 +1,5 @@
+import java.util.ArrayDeque;
+import java.util.Deque;
 import java.util.Scanner;
 
 public class selection {
@@ -15,6 +17,7 @@ public class selection {
         {
             System.out.print(a[i]+" ");
         }
+       
     }
     static void sortSelection(int a[],int n)
     {

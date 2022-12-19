@@ -21,7 +21,7 @@ public class mergesortarray {
     }
     static void mergearray(int a[],int b[],int n,int m)
     {
-        int i=0;
-        while(i<Integer.min(n, m))
+        
+    
     }
 }
