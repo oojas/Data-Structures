@@ -213,3 +213,45 @@ C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:16: err
      sc.next().charAt(0)
                         ^
 1 error
+2022.12.19 21:10:28 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.19 21:10:30 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+2022.12.19 21:10:33 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.19 21:10:35 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+2022.12.19 21:10:38 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Algorithms\GFloyydAlgo\algo.java
+2022.12.19 21:10:40 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Algorithms/GFloyydAlgo/algo.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Algorithms\GFloyydAlgo'
+
+2022.12.19 21:10:40 INFO  time: code lens generation in 1.19s
+2022.12.19 21:10:51 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+2022.12.19 21:10:52 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\hashSet.java
+2022.12.19 21:10:53 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+2022.12.19 21:10:54 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/hashSet.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+2022.12.19 21:10:54 INFO  time: code lens generation in 1.44s
+2022.12.19 21:10:59 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\hashSet.java
+2022.12.19 21:11:00 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/hashSet.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+2022.12.19 21:11:03 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\hashSet.java
+2022.12.19 21:11:05 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/hashSet.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+2022.12.19 21:11:05 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\hashSet.java
+2022.12.19 21:11:06 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/hashSet.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+2022.12.19 21:11:06 INFO  time: code lens generation in 1.98s
+2022.12.19 21:11:06 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Dequeue\maxsubsizek.java
+2022.12.19 21:11:07 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Dequeue/maxsubsizek.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Dequeue'
+
+2022.12.19 21:11:07 INFO  time: code lens generation in 1.06s
+Dec 19, 2022 9:11:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
