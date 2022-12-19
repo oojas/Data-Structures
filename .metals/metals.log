@@ -197,3 +197,19 @@ C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:16: err
 2022.12.17 11:26:28 INFO  shutting down Metals
 2022.12.19 21:08:56 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\.metals\lsp.trace.json or C:\Users\Ojas Gupta\AppData\Local\scalameta\metals\cache\lsp.trace.json
 2022.12.19 21:08:59 INFO  logging to file C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\.metals\metals.log
+2022.12.19 21:08:59 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions' for client Visual Studio Code 1.74.1.
+2022.12.19 21:09:01 INFO  time: initialize in 2.81s
+2022.12.19 21:09:04 WARN  Build server is not auto-connectable.
+2022.12.19 21:09:04 WARN  no build tool detected in workspace 'C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.19 21:09:04 WARN  no build target for: C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java
+Dec 19, 2022 9:09:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Dec 19, 2022 9:09:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2022.12.19 21:09:05 WARN  Running javac-semanticdb failed for file:///C:/Users/Ojas%20Gupta/Desktop/JAVA/placementQuestions/Hashing/Hashmap.java. Output:
+semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Hashing'
+
+C:\Users\Ojas Gupta\Desktop\JAVA\placementQuestions\Hashing\Hashmap.java:16: error: ';' expected
+     sc.next().charAt(0)
+                        ^
+1 error
