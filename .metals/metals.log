@@ -255,3 +255,4 @@ semanticdb-javac: unknown flag 'Gupta\Desktop\JAVA\placementQuestions\Dequeue'
 2022.12.19 21:11:07 INFO  time: code lens generation in 1.06s
 Dec 19, 2022 9:11:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2022.12.19 21:11:50 INFO  shutting down Metals
