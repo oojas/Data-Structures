@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+
 import java.util.HashSet;
 import java.util.Scanner;
 
@@ -8,7 +8,6 @@ public class longestdisctinct {
         String txt=sc.next();
         System.out.println(longestString(txt));
         sc.close();
-        ArrayList<Integer> l=new ArrayList<>();
         
     }
     static int longestString(String txt)

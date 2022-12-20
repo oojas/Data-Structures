@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.util.ArrayList;
+
 import java.util.HashSet;
 public class subarraySum{
     public static void main(String args[])
@@ -18,6 +18,7 @@ public class subarraySum{
        {
         System.out.print(res[i]+" ");
        }
+       sc.close();
     }
     static int[]demo(int nums[])
     {
@@ -46,15 +47,15 @@ public class subarraySum{
     }
     public static boolean checkSum(int a[],int sum)
     {
-        ArrayList<Integer> l=new ArrayList<Integer>();
+
         
         HashSet<Integer> h=new HashSet<Integer>();
         int val=0;
-        int count=0;
+     
         for(int i=0 ; i<a.length ; i++)
         {
              val+=a[i];
-            if(h.contains(val-sum))count++;
+            if(h.contains(val-sum))
             h.add(val);
         }
         return false;
