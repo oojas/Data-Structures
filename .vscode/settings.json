@@ -10,10 +10,12 @@
         "Matrix",
         "LinkedList",
         "Hashing",
+        "Dequeue",
         "Arrays",
         "Algorithms/Kadanealgo",
         "Algorithms/GFloyydAlgo",
-        "Dequeue"
+        "Code",
+        "DP"
     ],
     "files.watcherExclude": {
         "**/target": true
