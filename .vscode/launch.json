@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch longestcommonsubsequence",
+            "request": "launch",
+            "mainClass": "longestcommonsubsequence",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
             "name": "Launch fibnoccai",
             "request": "launch",
             "mainClass": "fibnoccai",
