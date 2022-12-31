@@ -15,7 +15,8 @@
         "Algorithms/Kadanealgo",
         "Algorithms/GFloyydAlgo",
         "Code",
-        "DP"
+        "DP",
+        "OOPS"
     ],
     "files.watcherExclude": {
         "**/target": true
