@@ -1,0 +1,13 @@
+Dynamic Programming is a type of programming which reduces the exponential time complexity
+of mainly recursive solutions by eliminating overlapping cases. 
+Dynamic Programming becomes extremely useful with two types of methods:
+1. Memoization : In Memoization we try to reduce overlapping cases in recursion by introducing array or maps
+                 They particularly store values of some cases and when these cases are called again and again 
+                 in the recursion then without computing the whole function they can be simply called as they
+                 are already stored inside the array. The dimensions of the array depends on the parameters that
+                 are changing.
+                 It is a top-down approach.
+
+2. Tabulation : In Tabulation we use the bottom up approach where we try to guess the solution of the ith or jth 
+                interval by using i-1 and j-1 interval. They are difficult to implement but doesnt use recursion in 
+                it. It is generally faster than the Memoization method as it doesnt have extra function calls.
