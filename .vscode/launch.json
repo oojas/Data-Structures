@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch longestsubsequence",
+            "request": "launch",
+            "mainClass": "longestsubsequence",
+            "projectName": "placementQuestions_e88a83ae"
+        },
+        {
+            "type": "java",
             "name": "Launch editDistance",
             "request": "launch",
             "mainClass": "editDistance",
