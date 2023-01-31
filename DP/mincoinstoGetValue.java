@@ -14,7 +14,7 @@ public class mincoinstoGetValue {
         sc.close();
        System.out.println(findMinCoin(a,n,v));
     }
-    static int findMinCoin(int a[],int n, int v)
+    static int findMinCoin(int a[],int n, int v) // Recursive solution with time complexity more than o(n^3).
     {
         if(v==0)return 0;
         int res=Integer.MAX_VALUE;
