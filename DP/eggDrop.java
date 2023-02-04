@@ -38,7 +38,7 @@ public class eggDrop {
        int e=fs.nextInt();
        System.out.println(ed.eggDropPuzzle(f,e));
     }
-    int eggDropPuzzle(int f,int e)
+    int eggDropPuzzle(int f,int e) // Navie recursion.
     {
        if(e==1)return f;
        if(f==1)return 1;
@@ -51,5 +51,6 @@ public class eggDrop {
        }
        return val+1;
     }
+
      
 }
