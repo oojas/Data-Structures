@@ -21,7 +21,7 @@ public class eggDrop {
            }
             
         }
-        //hi
+       
         return st.nextToken();
      }
      int nextInt(){
